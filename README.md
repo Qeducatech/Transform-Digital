@@ -29,5 +29,5 @@ Visited this link :
 - [Public  Privacy](https://transdigiware.github.io/PURI/)
 - [Tentang Kepatuhan](https://transdigiware.github.io/GDPR)
 
-
+We just wait in wishlist to this sponsor program ada di kawasan nusantara Indonesia Raya
 
