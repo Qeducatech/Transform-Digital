@@ -30,4 +30,4 @@ Visited this link :
 - [Tentang Kepatuhan](https://transdigiware.github.io/GDPR)
 
 
-
+Ib 5 May 2021 were the pandemi novel corona virus merebak. Team kami aepakat untuk bahu membahu diawala dengan idea du orang pekerna lapa gan maka berniat untuk syncronize projsct ke arH opentech.dot educatiin
