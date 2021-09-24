@@ -20,6 +20,7 @@ To realize and improve the existing planning, maya karya now decided to raise fu
 The Transform Digital bot device created by Maya works to integrate the system fully into other systems, both in the internal environment (Hard Drive), as well as on external systems (Cloud) on third parties or on other services.
 ---
 
+
 ## Who We are !
 Visited this link : 
 - [Our Project](https://github.com/transdigiware/Transform-Digital)
@@ -30,4 +31,6 @@ Visited this link :
 - [Tentang Kepatuhan](https://transdigiware.github.io/GDPR)
 
 
+## The Modernize Educate
+Berbasis paada data global saat pandemi mematahkankan sendi sendi kehidupan secara global sangat berdampak pada dunia pendidikan dimana para usia bersekolah para siswa harus bersolusi ria keranah Online untuk tetap dapat belajar maka secara pemerhati kehidupN berbangsa dan bertanah air tercetuslah pendirian  Homescholing Dharma Nalanda yang saat ini masih focus mengembangkan tahapan materi untuk belajar bahasa  yang bisa dimasuki para siswa dan umum pada Google Classrom serta Github Classroom, untuk saat ini.
 
